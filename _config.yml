@@ -1,7 +1,7 @@
 name: AppyKids
 favicon: null
-layout_spectrum: 0.06647510663606226
-typography_spectrum: 0.565522194141522
+layout_spectrum: 0.10224
+typography_spectrum: 0.8623
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.7881533165927976
+  brandStrength: 0.8125
   lightness: 0.9673023554496467
   saturation: 0.7002328801900148
   rhythmicContrast: 0.4962934192735702
