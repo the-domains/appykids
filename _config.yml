@@ -1,7 +1,7 @@
 name: AppyKids
 favicon: null
-layout_spectrum: 0.24288
-typography_spectrum: 0.1412
+layout_spectrum: 1
+typography_spectrum: 0.13406
 cta:
   domain: null
   bucket: null
